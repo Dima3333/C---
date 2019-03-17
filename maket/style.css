@@ -1,0 +1,18 @@
+body{font-family:sans-serif;}
+header{background-image:url(shapka/shapka.jpg);background-size:cover; background-position: center;}
+header img{width: 300px;}
+header {text-align: center;}
+header nav li{ display:inline-block; }
+nav a {/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff0202+0,d9ed02+62 */
+background: #ff0202; /* Old browsers */
+background: -moz-linear-gradient(top, #ff0202 0%, #d9ed02 62%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #ff0202 0%,#d9ed02 62%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #ff0202 0%,#d9ed02 62%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0202', endColorstr='#d9ed02',GradientType=0 ); /* IE6-9 */}
+nav a{padding:10px 20px;} 
+nav li:first-of-type a{border-radius:5px 0px 0px 5px; }
+nav a{text-decoration: none;}
+section{display:inline-block; width: 40%; }
+main>img{display:inline-block; width 55%; vertical-align: top;}
+section>img{display:inline-block; width: 30%;}
+footer{padding: 50px; background-image: url(shapka/shapka2.jpg);}
